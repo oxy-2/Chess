@@ -1,0 +1,17 @@
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\bin\Debug\net8.0-windows\chess ft7.exe
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\bin\Debug\net8.0-windows\chess ft7.deps.json
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\bin\Debug\net8.0-windows\chess ft7.runtimeconfig.json
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\bin\Debug\net8.0-windows\chess ft7.dll
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\bin\Debug\net8.0-windows\chess ft7.pdb
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\chess_ft7.Form1.resources
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\chess_ft7.Resources.resources
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\chess ft7.vbproj.GenerateResource.cache
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\chess ft7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\chess ft7.AssemblyInfoInputs.cache
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\chess ft7.AssemblyInfo.vb
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\chess ft7.vbproj.CoreCompileInputs.cache
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\chess ft7.dll
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\refint\chess ft7.dll
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\chess ft7.pdb
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\chess ft7.genruntimeconfig.cache
+C:\Users\pi2024\source\repos\chess ft7\chess ft7\obj\Debug\net8.0-windows\ref\chess ft7.dll
